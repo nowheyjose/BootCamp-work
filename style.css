@@ -2,7 +2,19 @@
   margin: 15px 10px;
 }
 
+#addLists {
+  margin: 15px 10px;
+}
+
 .tableWrapper {
   max-height: 400px;
   overflow: auto;
+}
+
+thead, tbody {
+    display: block;
+}
+
+#tHEAD {
+  font-weight: bold;
 }
